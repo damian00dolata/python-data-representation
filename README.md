@@ -1,5 +1,5 @@
 # python-data-representation
 
-W obu mini-zadaniach generowane są obrazy na podstawie danych liczbowych. W katalogu plots zawarte są pliki generujące wykresy, natomiast w katalogu map - tworzenie gradientu na podstawie modelu HSV, a następnie tworzenie mapy i nanoszenie koloru.
+In both tasks images are generated from numerical data. In the *plots* catalog there are files generating plots, and in the *map* catalog there are files generating gradients on the basis of HSV model, which are then applicated on maps.
 
-Oba programy kompilowane są przy użyciu Pythona - plikami głównymi są: plot.py, gradient.py, map.py (wykres, gradient, mapa).
+Both programs are compiled in Python - the main files are: *plot.py*, *gradient.py* and *map.py*.
